@@ -3,16 +3,13 @@
 <h3>Bem vindos ao meu perfil!</h3>
 <br>
 
-<div style="display:flex;  justify-content:space-between;  align-items:center;">
 <p>Me chamo Taynara, tenho 28 anos e moro na cidade de Juiz de Fora/MG. Sou uma genin iniciante na programação, apaixonada por uma xícara de chá ❤️ e uma emocionante partida de xadrez.</p>
 
-<img src="img/gato.gif" width="150px">
-</div>
+<img src="gato.gif" width="150px">
 
-<div>
+
 👩🏻‍🎓📚 Estudando na Kenzie Academy Brasil;<br>
 📧 Email: paulathaah01@gmail.com
-</div>
 
 ### <h2>Estou aprendendo</h2>
 <br>
