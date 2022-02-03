@@ -7,10 +7,6 @@
 
 <img src="gato.gif" width="150px">
 
-
-👩🏻‍🎓📚 Estudando na Kenzie Academy Brasil;<br>
-📧 Email: paulathaah01@gmail.com
-
 ### <h2>Estou aprendendo</h2>
 <br>
 
